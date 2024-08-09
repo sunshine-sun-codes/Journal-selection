@@ -191,7 +191,8 @@ EI
 周期：7个月
 ```
 
-![image-20240809205432250](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240809205432250.png)
+![image](https://github.com/user-attachments/assets/e80ec0a8-6c76-4a7e-b225-dd148d4190b2)
+
 
 ## ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
 
@@ -213,7 +214,8 @@ OA期刊
 平均审稿速度：6-12周
 ```
 
-![image-20240809210312695](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240809210312695.png)
+![image](https://github.com/user-attachments/assets/3560d38b-1690-4dbd-a64f-249c04eb07e5)
+
 
 ## IEEE Open Journal of Signal Processing
 
